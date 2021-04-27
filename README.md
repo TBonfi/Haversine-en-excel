@@ -1,4 +1,4 @@
-# formula-distancia-VBA
+## Formula de distancia en VBA
 
 This is the code you'll need to add a personal formula in Excel VBA to calculate distances in KM between two differents pairs of latitude, longitude coordinates(as in -XX,XXXXXX;-XX,XXXXXX / -XX,XXXXXX;-XX,XXXXXX kind of data) and use the earth radius as an optional input. For having an idea of performance I've used It in an excel spreadsheet to make +5,000,000 calculations in a matrix and It only takes about 30-40 seconds.
 
